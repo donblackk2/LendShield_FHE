@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\secure-decorator.txt
+// Generated at: 2025-10-25T11:02:50.548Z
